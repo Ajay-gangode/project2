@@ -1,4 +1,4 @@
 # new Project
 
 This is a sample local project.
-Created by Ajay Gangode.
+Created by Ajay Gangode
